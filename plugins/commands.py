@@ -58,7 +58,7 @@ async def start(client, message):
                     InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
-        m=await message.reply_sticker("CAACAgUAAxkBAAEKVaxlCWGs1Ri6ti45xliLiUeweCnu4AACBAADwSQxMYnlHW4Ls8gQMAQ") 
+        m=await message.reply_sticker("CAACAgQAAxkBAAEBX3dlH51SW1fCRAOpeul1F-RxtV6_bgAChgkAAjcibwGHr1is0mnkrx4E") 
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
