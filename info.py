@@ -112,9 +112,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://{}/".format(FQDN)
+    URL = "https://sudip-pulv.onrender.com/".format(FQDN)
 else:
-    URL = "https://{}/".format(FQDN)
+    URL = "https://sudip-pulv.onrender.com/".format(FQDN)
 
 
 
