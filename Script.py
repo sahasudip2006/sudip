@@ -21,7 +21,6 @@ Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛ�
 
 Where is source code? - <a href='https://t.me/SUDIPSAHA06'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
-If You Want Buy This Tipes Bot Then massage 👉@SUDIPSAHA06
 
 Developer - <a href='https://t.me/SUDIPSAHA06'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
